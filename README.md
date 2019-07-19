@@ -9,7 +9,7 @@ Credit to https://github.com/frnsys/ai_notes for a number of explanations and la
 1. All_sections.ipynb:
     * Includes all three sections (Vectors & Spaces, Matrix Transformations, Alternative coordinate systems) of the Khan Academy playlist
 
-2. User created functions:
+2. [User created functions](#User-created-functions):
     * Python:
         - vector.py, projection.py, graph_multiple.py, Change_basis.py, Notebook_functions.py, OOP_all_functions.py
     * Python notebook
@@ -49,7 +49,7 @@ Credit to https://github.com/frnsys/ai_notes for a number of explanations and la
     * [Orthonormal bases and the Gram-Schmidt process](#Orthonormal-bases-and-the-Gram-Schmidt-process)
     * [Eigen-everything](#Eigen-everything)
 
-# User created Functions
+# User Created Functions
 
 * vector.py
     - Graph one or two vectors in matplotlib using quiver
