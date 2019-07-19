@@ -24,7 +24,7 @@ Credit to https://github.com/frnsys/ai_notes for a number of explanations and la
     3. Left Null and Row Space
 
 
-# Contents
+# All_sections.ipynb Table of Contents
 
 * [Vectors & Spaces](#Vectors-&-spaces)
     * [Vectors](#Vectors)
