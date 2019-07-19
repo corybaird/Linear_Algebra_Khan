@@ -10,13 +10,15 @@ Credit to https://github.com/frnsys/ai_notes for a number of explanations and la
     * Includes all three sections (Vectors & Spaces, Matrix Transformations, Alternative coordinate systems) of the Khan Academy playlist
 
 2. User created functions:
-    * vector.py, projection.py, graph_multiple.py, Change_basis.py, Notebook_functions.py, OOP_all_functions.py
+    * Python:
+        - vector.py, projection.py, graph_multiple.py, Change_basis.py, Notebook_functions.py, OOP_all_functions.py
+    * Python notebook
+        - Notebook_functions.ipynb, OOP_all_functions.ipynb
 
 3. Screenshots
     * Screenshots of notes pasted into the All_sections.ipynb Notebook_functions
 
-4. Gifs
-    * Shows 3-D gif in matplotlib of:
+4. Gifs showing 3-d matplotlib of:
     1. Change of basis
     2. Cross product
     3. Left Null and Row Space
